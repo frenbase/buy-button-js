@@ -1,1 +1,1 @@
-export default ".shopify-buy-frame--cart {\n  display: none\n}\n.shopify-buy-frame--cart.is-active {\n    display: block;\n  }\n"
+export default ".shopify-buy-frame--cart {\r\n  display: none\r\n}\n.shopify-buy-frame--cart.is-active {\r\n    display: block;\r\n  }\r\n"

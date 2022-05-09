@@ -1,1 +1,1 @@
-export default ".shopify-buy__modal {\n  display: none;\n}\n\n.is-active .shopify-buy__modal {\n    display: block;\n    opacity: 1;\n    margin-left: auto;\n    margin-right: auto;\n  }\n"
+export default ".shopify-buy__modal {\r\n  display: none;\r\n}\r\n\r\n.is-active .shopify-buy__modal {\r\n    display: block;\r\n    opacity: 1;\r\n    margin-left: auto;\r\n    margin-right: auto;\r\n  }\r\n"
